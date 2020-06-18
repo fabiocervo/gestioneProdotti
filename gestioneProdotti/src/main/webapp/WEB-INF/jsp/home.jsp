@@ -9,7 +9,7 @@
 <title>HOME</title>
 </head>
 <body>
-<h3><a href="nuovo">New Customer</a></h3>
+<h3><a href="nuovo">Nuovo Prodotto</a></h3>
 <table border="5" cellpadding="10">
 		<tr>
 			<th>ID</th>
